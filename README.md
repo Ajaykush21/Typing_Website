@@ -14,6 +14,6 @@ Development.
 for users
 </p>
 <img
-      src="C:\Users\Ajay Kushwaha\OneDrive\Pictures\Screenshots"
+      src="C:\Users\Ajay Kushwaha\OneDrive\Desktop\Typing website\html"
       alt="Typing website"
       />
