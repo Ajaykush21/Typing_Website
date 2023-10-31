@@ -13,3 +13,7 @@ Development.
 <b>Results and Impact</b> : The website contributed to improving typing skills
 for users
 </p>
+<img
+      src="C:\Users\Ajay Kushwaha\OneDrive\Pictures\Screenshots"
+      alt="Clickable World Map"
+      />
