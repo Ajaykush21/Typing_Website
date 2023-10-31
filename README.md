@@ -14,6 +14,7 @@ Development.
 for users
 </p>
 <img
-      src="C:\Users\Ajay Kushwaha\OneDrive\Desktop\Typing website\html"
+      src="https://github.com/Ajaykush21/Project/assets/117836813/682329ec-2058-4b89-b3be-7a57471f7a2f)
+"
       alt="Typing website"
       />
