@@ -1,8 +1,5 @@
-<h1>
-  Typing Website
-</h1>
-<p>
-  <b>Introduction</b> : Created and developed a user-friendly typing website
+# Typing Website
+Introduction<: Created and developed a user-friendly typing website
 aimed at improving typing speed and accuracy for users of all levels.
   <br>
 <b>Duration</b>Duration : November 2022- December 2022
